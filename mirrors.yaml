@@ -53,3 +53,13 @@ repos:
 - original: https://golang.org/x/perf
   repo: https://github.com/golang/perf
   vcs: git
+- original: https://k8s.io/apiextensions-apiserver
+  repo: https://gitee.com/jeremy-xu/apiextensions-apiserver
+  vcs: git
+- original: https://k8s.io/kubernetes
+  repo: https://gitee.com/jeremy-xu/kubernetes
+  vcs: git
+- original: https://github.com/docker/docker
+  repo: https://gitee.com/jeremy-xu/docker
+  vcs: git
+
